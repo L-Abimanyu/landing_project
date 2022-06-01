@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-image: url(/images/newback.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+#bar{
+     
+    display:flex;
+    justify-content:space-around;
+    padding: 10px;
+    background-image: none;
+    
+
+    
+    
+}
+
+#bar nav ul li {
+
+    list-style-type: none;
+    display: inline-block;
+    line-height: 80px;
+    padding-left: 20px;
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: none;
+    
+
+    
+}
+#bar nav ul li a:hover{
+    color: rgb(237, 241, 245);
+    cursor: pointer;
+}
+
+ #logo{
+    line-height: 80px;
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 2px 2px whitesmoke;
+    
+
+}
+
+
+.content{
+
+
+    
+    padding: 30px;
+    padding-top: 100px;  
+   
+}
+
+.content p{
+    
+    padding:10px;
+    font-size: 20px;
+    width: 700px;
+    margin-top: 100px;
+    margin-left: 290px;
+    
+   
+
+}
+
+.content p{
+    
+    border: 3px solid ;
+    border-radius: 20px;
+    height: fit-content;
+    box-shadow: 5px 10px black;
+    
+}
+
+
+#head{
+
+    text-align: center;
+    font-size: 30px;
+}
+
+#container{
+    display:flex;
+    justify-content: space-between;
+    padding: 30px;
+
+}
+
+#container img{
+
+    border: 3px solid black;
+    border-radius: 30px;
+}
+
+
+#container h3{
+    text-align: center;
+    font-size: 25px;
+
+}
+
+#aboutus{
+
+    padding: 30px;
+    margin-left: 30px;
+    
+}
+
+#aboutus #up{
+    text-align: center;
+    font-size: 30px;
+    text-decoration:underline;
+
+
+}
+
+#aboutus p{
+    
+    width: 700px;
+    font-size: 20px;
+    padding: 10px;
+    align-items: center;
+    border: 3px solid ;
+    border-radius: 20px;
+    height: fit-content;
+    box-shadow: 5px 10px black;
+    margin-top: 20px;
+    margin-left: 250px;
+    
+    
+    
+}
+
+#contact {
+
+    text-align: center;
+    font-size: 20px;
+}
+
+    
+
